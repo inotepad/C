@@ -23,4 +23,3 @@ gcc -g -rdynamic backtrace.c
 =======
 6.test_hostname
 gcc -g -rdynamic backtrace.c
->>>>>>> 3434233d7f864eb0170dc0a0c15f1b85343eea5a
