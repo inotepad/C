@@ -1,1 +1,1 @@
-execuate sql to mysql server
+#execuate sql to mysql server
