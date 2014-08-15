@@ -1,1 +1,2 @@
-#execuate sql to mysql server
+#SQL
+insert sql query into MySQL
