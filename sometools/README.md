@@ -17,9 +17,7 @@ wait all theard to quit
 ##5.backtrace
 
 gcc -g -rdynamic backtrace.c
-<<<<<<< HEAD
 
 ##6.test_hostname
-=======
-6.test_hostname
+
 gcc -g -rdynamic backtrace.c
